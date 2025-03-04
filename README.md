@@ -4,7 +4,7 @@ I'm Archit, a Web Dev and probably a chess player
 
 Some of my recent projects:
 
-- 🌪️ [Vayudoot](https://vayudoot-2-0.vercel.app): Drone Competition website where you can register and create a team.
+- 🌪️ [Vayudoot](https://vayudoot-2-0.vercel.app): Drone Competition website where you can register.
 
 
 
