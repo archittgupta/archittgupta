@@ -39,6 +39,8 @@ Some of my recent projects:
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="NextJS logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="NextJS logo"  />
+  <img width="10" />
 
 ###
 
