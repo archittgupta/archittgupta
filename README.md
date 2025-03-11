@@ -27,7 +27,7 @@ Some of my recent projects:
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="C++ logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS logo" />
   <img width="10" />
