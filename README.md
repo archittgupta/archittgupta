@@ -1,6 +1,6 @@
 # HELLO! 👋
 
-I'm Archit, a Web Dev and probably a chess player
+I'm Archit, a Web Dev and probably more
 
 Some of my recent projects:
 
